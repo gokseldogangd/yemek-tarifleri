@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yemek-tarifleri/static/css/main.0f5af2bf.css",
+    "main.js": "/yemek-tarifleri/static/js/main.d0f19763.js",
+    "static/media/light.svg": "/yemek-tarifleri/static/media/light.ceb162974b1ce6f288172395350322a7.svg",
+    "index.html": "/yemek-tarifleri/index.html",
+    "static/media/dark.svg": "/yemek-tarifleri/static/media/dark.69eec2816f318b8d45bbb51800588270.svg",
+    "main.0f5af2bf.css.map": "/yemek-tarifleri/static/css/main.0f5af2bf.css.map",
+    "main.d0f19763.js.map": "/yemek-tarifleri/static/js/main.d0f19763.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f5af2bf.css",
+    "static/js/main.d0f19763.js"
+  ]
+}
